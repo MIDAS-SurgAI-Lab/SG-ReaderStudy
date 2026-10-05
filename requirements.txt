@@ -1,0 +1,12 @@
+# Python 3.10. Pin versions to your environment before release.
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+matplotlib
+krippendorff
+openai
+# text metrics (BLEU, METEOR, ROUGE, CIDEr, BERTScore)
+nltk
+bert-score

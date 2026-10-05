@@ -1,0 +1,602 @@
+{
+  "192024575": {
+    "Task1_Anatomy": "The hepatocystic triangle is substantially dissected with two windows, showing mild inflammatory changes and minor oozing but no bile leak. The cystic duct and artery are partially skeletonized without clips applied in this frame. The lower gallbladder does not appear clearly separated from the liver bed yet.",
+    "Task2_Final": "The case is in the Calot dissection phase with two windows and partial skeletonization; a clip applier is positioned for anticipated clipping, but CVS is not yet fully met. Safety is acceptable with minor oozing, but clipping should wait until full CVS confirmation to reduce bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed to complete circumferential skeletonization of the cystic duct and artery, establish a posterior window, and dissect the lower third of the gallbladder off the liver bed to meet full CVS before any clipping. Then clip-divide the artery and duct safely and finish the cholecystectomy, with bail-out options ready if anatomy remains uncertain; outcome is expected to be an uncomplicated laparoscopic completion."
+  },
+  "181010700": {
+    "Task1_Anatomy": "The gallbladder shows mild inflammation with limited capillary oozing but no bile leak or perforation. The cystic duct and a likely cystic artery are partially skeletonized within a partially cleared hepatocystic triangle, with no dense adhesions or active bleeding. The lower gallbladder remains at least partially attached to the liver bed.",
+    "Task2_Final": "This frame shows the Calot’s triangle dissection phase, with the hook clearing medial peritoneum and the grasper providing lateral-inferior traction on Hartmann’s pouch. Progress is good with mild inflammation and minimal bleeding, but CVS is incomplete; further careful dissection is required before clipping. Overall bile duct injury risk is acceptable but persists until CVS is fully obtained.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with careful anterior and posterior dissection on the gallbladder wall to fully skeletonize the duct and artery, open a posterior window, and detach the lower third of the gallbladder to complete CVS before any clipping. With controlled energy use, hemostasis, and readiness to use adjuncts or bailouts if anatomy remains unclear, an uneventful laparoscopic completion without bile duct injury is expected."
+  },
+  "188021625": {
+    "Task1_Anatomy": "This frame shows a distended gallbladder fundus/body with omental adhesions and mild pericholecystic inflammatory changes. The liver capsule is hyperemic with minor bleeding; a small blood pool is present inferiorly. Calot’s anatomy is not visible in this view.",
+    "Task2_Final": "This appears to be the exposure/adhesiolysis phase at the gallbladder fundus/body with mild inflammatory adhesions and minor bleeding. Calot’s anatomy is not yet visible; further exposure is needed before safe dissection. Anticipated biliary injury risk is moderate once dissection proceeds without clear CVS.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with suction/hemostasis, fundus retraction, and close-to-gallbladder adhesiolysis to expose the hepatocystic triangle, then achieve CVS before clipping the cystic structures; consider decompression if the gallbladder is tense and use bail-out strategies if CVS is unattainable. Expected outcome is successful laparoscopic completion with minimal complications if dissection stays on the gallbladder and CVS is strictly confirmed."
+  },
+  "193048075": {
+    "Task1_Anatomy": "The hepatocystic triangle is partially cleared with mild–moderate inflammation and minor oozing. A duct-like structure consistent with the cystic duct is visible; a distinct cystic artery is suggested but not clearly separated in this frame. No bile spillage or other abnormalities are seen.",
+    "Task2_Final": "This frame represents ongoing Calot’s triangle dissection to achieve the CVS, with partial exposure and minor oozing. Clipping should be deferred until the artery is clearly separated and the lower gallbladder is off the liver bed.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed to optimize traction and hemostasis, finish clearing the hepatocystic triangle, create a posterior window, verify the full CVS, then clip/divide the artery and duct and complete cholecystectomy; defer clipping until two distinct structures are unquestionably seen. If CVS cannot be achieved safely, convert to fundus-first or subtotal. Outcome is likely a safe laparoscopic completion with low complication risk."
+  },
+  "169011675": {
+    "Task1_Anatomy": "The hepatocystic triangle is mostly cleared, exposing a cystic artery being clipped and a partially skeletonized cystic duct; mild oozing is present without bile leakage. The gallbladder shows mild serosal hyperemia but no perforation or dense adhesions.",
+    "Task2_Final": "The case is at the point of clipping the cystic artery with satisfactory exposure of Calot’s triangle and identifiable cystic duct and artery. Mild oozing warrants suction/hemostasis, and full CVS confirmation should precede cystic duct division to maintain safety.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed by completing skeletonization, clipping/dividing the cystic artery, reconfirming CVS, then clipping/dividing the cystic duct and removing the gallbladder in the subserosal plane with meticulous hemostasis. If visualization remains clear and dissection stays close to the gallbladder, the operation should complete laparoscopically without complications."
+  },
+  "197062475": {
+    "Task1_Anatomy": "The hepatocystic triangle shows partial skeletonization with moderate inflammation and oozing but no dense adhesions or bile leak. The cystic duct and cystic artery are visible as two distinct tubular structures; the artery is being prepared for clipping. The lower gallbladder remains at least partially attached to the liver bed with some oozing from the cystic plate.",
+    "Task2_Final": "This frame shows the cystic artery ready for clipping during Calot’s triangle dissection; two tubular structures are visible but CVS is incomplete due to limited clearance and ongoing attachment of the lower gallbladder. Safe progression requires improved hemostasis and completion of CVS before dividing any structures to minimize bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed by clearing residual tissue in the hepatocystic triangle, achieving hemostasis, and completing CVS before any division; then clip/divide the cystic artery followed by the cystic duct, and finish gallbladder separation from the liver bed. If visualization remains poor or anatomy uncertain, defer clipping and consider IOC or bail-out options; with proper steps, an uncomplicated laparoscopic completion is expected."
+  },
+  "16401950": {
+    "Task1_Anatomy": "The hepatocystic triangle is partially cleared with two likely cystic structures exposed amid inflamed, oozing tissue. The gallbladder serosa appears thickened and hyperemic, without visible bile leakage or perforation in this frame.",
+    "Task2_Final": "This frame represents the Calot’s triangle dissection phase with partial exposure of the cystic duct and artery but incomplete CVS due to residual tissue and oozing. Continued meticulous dissection and hemostasis are necessary to safely progress to clipping and division.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with hemostasis and gallbladder-side blunt dissection to fully clear the hepatocystic triangle, achieve circumferential identification of the cystic duct and artery, and detach the lower GB from the liver bed before clipping and dividing. If an adequate CVS cannot be obtained, convert to a bailout strategy such as IOC, fundus-first, or subtotal cholecystectomy. Predicted outcome is successful laparoscopic completion once CVS is achieved, with low complication risk."
+  },
+  "200017875": {
+    "Task1_Anatomy": "The gallbladder neck region and Calot’s triangle show mild–moderate inflammatory change with limited oozing; exposure is partial with a tubular structure consistent with the cystic artery visible but not fully skeletonized. No bile leakage is seen, and the lower gallbladder remains attached to the liver bed.",
+    "Task2_Final": "This frame shows the pre-clipping stage of Calot’s dissection with a clip applier aligned to a vessel consistent with the cystic artery, but CVS is not yet met due to incomplete clearance and lack of posterior window. Proceeding to clip now carries avoidable risk; further dissection to achieve CVS is advised.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Finish clearing Calot’s triangle, establish the posterior window, and detach the lower gallbladder from the cystic plate to obtain full CVS before any clipping; keep dissection on the gallbladder side and control oozing. After confirming two structures, clip/divide artery then duct and complete the cholecystectomy; prognosis is favorable with low expected morbidity if CVS is honored, with bail-out options if uncertainty persists."
+  },
+  "184032125": {
+    "Task1_Anatomy": "The field shows an inflamed, edematous gallbladder and a partially cleared but still inflamed hepatocystic triangle with mild oozing. One tubular structure consistent with the cystic duct is visible; a distinct cystic artery is not yet identified, and the lower gallbladder does not appear detached from the liver bed.",
+    "Task2_Final": "This is the Calot’s triangle dissection stage with incomplete exposure in an inflamed field. Given that only one tubular structure is confidently seen and the triangle is not fully cleared, further dissection and hemostasis are needed before any clipping to minimize bile duct injury risk.\nBDI_RISK_LEVEL=3",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous anterior and posterior infundibular dissection, control oozing, and detach the lower third of the gallbladder to achieve the full CVS before any clipping. If CVS remains unachievable due to inflammation, switch early to a bail-out strategy such as subtotal cholecystectomy; otherwise, completion laparoscopically with standard clipping is likely and safe."
+  },
+  "181011450": {
+    "Task1_Anatomy": "Left-hand grasper retracts the gallbladder neck to expose the hepatocystic triangle while the right-hand clip applier is positioned on the cystic duct. The gallbladder shows mild serosal inflammation and flimsy adhesions with minimal oozing; the cystic duct is skeletonized and a separate cystic artery is seen. CVS criteria 1–2 are reasonably met; criterion 3 is not clearly met in this frame.\n[0.9, 0.8, 0.4]",
+    "Task2_Final": "This frame shows the cystic duct being clipped after a largely cleared hepatocystic triangle, with the cystic artery identified but untreated. Progress is appropriate, but confirmation of lower gallbladder detachment (CVS C3) should precede clip firing/division to minimize misidentification risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Confirm full CVS by detaching the lower third of the gallbladder and ensuring only the cystic duct and artery enter the gallbladder before firing clips. Then clip/divide the cystic duct and artery sequentially and complete a retrograde cholecystectomy; if uncertainty persists, use cholangiography or a bail-out strategy. Expected outcome is an uncomplicated laparoscopic completion with minimal blood loss and low complication risk."
+  },
+  "193046575": {
+    "Task1_Anatomy": "The Calot’s triangle is inflamed with fibrin and minor oozing; the gallbladder neck is hyperemic and partially adherent. The cystic duct and cystic artery are identifiable and partially skeletonized but not yet fully cleared or clipped. The lower gallbladder remains largely attached to the liver bed.",
+    "Task2_Final": "This frame shows ongoing Calot’s triangle dissection with partial skeletonization of the cystic duct and artery under good retraction. Due to inflammation and incomplete CVS, further careful clearance and lower gallbladder detachment are required before clipping and division to maintain safety. BDI risk is moderate at this stage.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with careful blunt/energy dissection to fully clear the hepatocystic triangle, create anterior/posterior windows, and detach the lower gallbladder to complete CVS before clipping and division. Maintain dissection on the gallbladder wall with precise energy use and prompt hemostasis; if CVS cannot be achieved safely, use a bailout strategy. Expected outcome is successful laparoscopic completion with minimal complications."
+  },
+  "16206575": {
+    "Task1_Anatomy": "The hepatocystic triangle is being dissected with two tubular structures visible entering the gallbladder; tissues show mild–moderate inflammatory changes with small oozing but no bile leak. Residual fibrofatty tissue remains over the duct and artery, and the lower gallbladder is not yet fully separated from the liver bed.",
+    "Task2_Final": "This frame shows Calot’s triangle dissection in progress with lateral traction and partial skeletonization of the cystic duct and artery. Further clearance, especially posteriorly and off the lower gallbladder from the liver bed, is needed before clipping to minimize BDI risk. Overall progression is appropriate but requires continued meticulous dissection to achieve full CVS.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with precise anterior and posterior skeletonization under optimal lateral traction, then detach the lower gallbladder from the liver bed to achieve full CVS before clipping and dividing the cystic structures. Maintain dissection on the gallbladder side with controlled cautery and be prepared for bail-out strategies if anatomy remains unclear. The expected outcome is an uncomplicated laparoscopic completion with minimal bleeding and low BDI risk."
+  },
+  "192023825": {
+    "Task1_Anatomy": "Calot’s triangle is well exposed with two clean windows and minimal oozing; the cystic duct and cystic artery are partially skeletonized without bile leak or hemorrhage. The gallbladder appears mildly hyperemic but not edematous, with no significant adhesions.",
+    "Task2_Final": "This is the Calot dissection stage with good exposure and two windows, partial skeletonization of the cystic duct and artery, and minimal bleeding. CVS is close but not complete; proceed to detach the lower gallbladder from the liver bed before clipping to minimize BDI risk.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed with close-to-gallbladder dissection to fully skeletonize the cystic structures and detach the lower third of the gallbladder from the liver bed, then clip/divide after the CVS is unequivocally achieved. Given the clean planes and minimal oozing, an uncomplicated laparoscopic completion with low risk of bile duct injury is expected."
+  },
+  "172044650": {
+    "Task1_Anatomy": "Two tubular structures (cystic duct and cystic artery) are exposed with good traction; a clip applier is positioned on the cystic duct while the gallbladder is retracted by two graspers. The triangle is largely cleared with mild inflammation and minor oozing, and the lower third detachment from the liver bed is not clearly demonstrated. CVS is partially met: criteria 1 and 2 likely achieved; criterion 3 uncertain.",
+    "Task2_Final": "The operation is at the cystic duct clipping step with the hepatocystic triangle largely skeletonized and two structures identified. To optimize safety, confirm full CVS—particularly lower gallbladder detachment—before clip deployment, given mild inflammation and minor oozing.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Complete skeletonization and detach the lower third of the gallbladder to fully achieve CVS, then clip-divide the cystic duct and artery and finish the cholecystectomy with hemostasis and irrigation. With these precautions and current exposure, the case should complete laparoscopically without complication and with low risk of bile duct injury."
+  },
+  "196036525": {
+    "Task1_Anatomy": "The cystic duct and cystic artery are clearly separated and skeletonized with minor oozing from the cystic plate but no bile leak. The gallbladder neck shows mild dissection-related serosal changes without dense adhesions. Overall, exposure is good with clean planes and only minimal bleeding.",
+    "Task2_Final": "This frame shows the clipping step on the cystic duct with the cystic artery separately identified and the hepatocystic triangle largely cleared, indicating near-CVS. Visibility is good with minimal oozing, supporting safe progression to clip and divide the duct followed by the artery.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed by confirming CVS, then clip and divide the cystic duct followed by the cystic artery, maintaining clear posterior windows and precise clip placement away from the hepatobiliary junction, with immediate hemostasis as needed. Complete gallbladder separation on the cystic plate, irrigate, and verify hemostasis and clip security; the expected outcome is an uneventful laparoscopic completion without bile duct injury."
+  },
+  "180018850": {
+    "Task1_Anatomy": "The hepatocystic triangle is partially opened with the infundibulum retracted laterally and the hook dissecting over the cystic duct and a putative cystic artery. No significant inflammation, adhesions, or bile leak are seen; only minimal oozing at the dissection plane. The lower gallbladder remains largely attached to the liver bed.",
+    "Task2_Final": "This frame shows mid-dissection of Calot’s triangle with partial skeletonization of the cystic duct and a likely cystic artery; the cystic plate is not yet exposed. Continued careful dissection is required before clipping and division to avoid misidentification injury. Overall progression is appropriate but CVS is not yet met.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed by optimizing lateral infundibular traction, clearing peritoneum on both sides of Calot’s triangle, fully skeletonizing the cystic duct and artery, and mobilizing the lower gallbladder off the liver plate before any clipping. Once CVS is unequivocally achieved, clip/divide the artery and duct and complete the cholecystectomy with hemostasis and irrigation. The expected outcome is an uncomplicated laparoscopic completion with low risk of BDI."
+  },
+  "185012750": {
+    "Task1_Anatomy": "The gallbladder is thick-walled and hyperemic with minor oozing, consistent with active inflammation. The cystic duct and presumed cystic artery are visible but not fully skeletonized; the hepatocystic triangle still contains fibrofatty/peritoneal tissue with mild bleeding. No bile staining, stone spillage, or abnormal adhesions to adjacent organs are seen in this frame.",
+    "Task2_Final": "This frame represents the critical step of cystic structure control with the clipper aligned to the cystic duct, but CVS is incomplete due to residual tissue and inflammation. Proceeding without further clearance would raise misidentification risk; careful skeletonization and partial gallbladder detachment from the bed are needed before clipping.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Pause clip deployment, improve retraction, and fully skeletonize the cystic duct and artery while controlling oozing; partially detach the lower gallbladder from the bed to complete CVS, then clip and divide in a controlled manner. If identification remains uncertain, perform IOC or adopt a bailout strategy; the procedure will likely be completed laparoscopically with low complication risk."
+  },
+  "175070625": {
+    "Task1_Anatomy": "The gallbladder shows mild inflammatory changes with minor oozing and residual fibroareolar tissue around the neck. The cystic duct and a vessel consistent with the cystic artery are visible but not fully skeletonized; the hepatocystic triangle is not yet completely cleared. No bile spillage or major bleeding is seen.",
+    "Task2_Final": "This frame captures the Calot’s triangle dissection phase with partial exposure of the cystic duct and artery but without a fully cleared triangle or lower gallbladder detachment. Proceeding to clip or divide now would be unsafe; further careful dissection on the gallbladder wall is required to complete CVS.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed by optimizing traction, clearing the hepatocystic triangle with blunt/energy dissection on the gallbladder wall, and establishing anterior/posterior windows to complete CVS before clipping and division. Maintain meticulous hemostasis and avoid medial/low dissection; if CVS remains unattainable, switch to bailout strategies. Expected outcome is successful laparoscopic completion with low complication risk."
+  },
+  "195036650": {
+    "Task1_Anatomy": "The gallbladder appears intact with mild congestion and no bile leak; Calot’s triangle is only partially cleared with minor oozing and without two clearly defined cystic structures; the lower gallbladder does not appear detached from the liver bed in this frame.",
+    "Task2_Final": "This frame shows ongoing Calot’s dissection with a clip applier being positioned before clear identification of the cystic duct and artery. Visualization is partial with minor oozing, so further exposure and confirmation of CVS are needed before clipping to maintain safety.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed by improving traction, clearing the hepatocystic triangle, creating a posterior window, and detaching the lower gallbladder to achieve CVS before any clipping. If CVS cannot be met, use a bailout strategy; with proper exposure, the case should complete laparoscopically with low risk of complications."
+  },
+  "171011550": {
+    "Task1_Anatomy": "The gallbladder and cystic duct appear non-inflamed with only flimsy areolar attachments; the cystic plate is being cleared with minimal cautery char and pinpoint oozing, and the liver surface is intact without bleeding or bile. No bile leak, significant adhesions, or other abnormalities are evident in this frame.",
+    "Task2_Final": "This frame shows ongoing Calot’s triangle dissection with partial skeletonization of the cystic duct and active clearing of the cystic plate; CVS is not yet achieved. Conditions look favorable for safe completion, but clipping/division should wait until full CVS is obtained to minimize misidentification risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous anterior and posterior peritoneal clearance on the cystic plate, maintaining dissection on the gallbladder side until the cystic duct and artery are clearly separated and the lower third of the gallbladder is off the liver, then clip/divide safely. With careful technique and full CVS confirmation, the operation should complete laparoscopically without complication and with minimal blood loss."
+  },
+  "18204650": {
+    "Task1_Anatomy": "The hepatocystic triangle is well exposed with a clear posterior window and minimal inflammation or bleeding. The cystic duct and cystic artery are suggested but not fully circumferentially skeletonized in this single frame. No adhesions or abnormalities beyond normal areolar tissue are seen.",
+    "Task2_Final": "This frame shows Calot’s dissection in progress with a clean posterior window and good exposure, but the duct and artery are not yet fully skeletonized and lower-third detachment is not definitively shown. If dissection continues on the gallbladder wall to complete CVS, the procedure is progressing safely with low risk.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed with careful hook dissection on the gallbladder wall to fully skeletonize the duct and artery and free the lower third of the gallbladder, achieving a definitive CVS before clipping. With the current clean planes and exposure, the operation should complete laparoscopically without complication and with a low risk of bile duct injury."
+  },
+  "163049175": {
+    "Task1_Anatomy": "There is mild-to-moderate inflammatory change with hyperemic, edematous tissue and fibrofatty adhesions within Calot’s triangle, causing minor oozing. The cystic duct is only partly skeletonized and the cystic artery is suggested but not fully defined. No bile leak or major bleeding is visible.",
+    "Task2_Final": "The case is in the Calot’s triangle dissection stage with partial skeletonization of the cystic duct under mild-to-moderate inflammation and minor oozing. CVS is not yet met, so continued careful, gallbladder-side dissection is required to safely progress. BDI risk is moderate at this moment.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with deliberate, gallbladder-side skeletonization: finish anterior clearing, create a posterior window, detach the lower third from the liver bed, then confirm CVS before clipping and dividing the cystic artery and duct. Use minimal cautery and precise traction to avoid thermal or misidentification injury; if anatomy remains unclear, escalate to safer alternatives. Expected outcome is successful laparoscopic completion without major complications."
+  },
+  "166012950": {
+    "Task1_Anatomy": "The hepatocystic triangle is well exposed with mild fatty tissue and minimal hyperemia; the cystic duct and cystic artery are each visible and partially skeletonized without bleeding or bile leak. The lower gallbladder appears partly separated from the liver bed, and the field is dry with no purulence or dense adhesions.",
+    "Task2_Final": "This is the Calot’s triangle dissection step with near-CVS: the cystic duct and artery are identifiable and exposure is good, though lower-third detachment needs confirmation. With controlled dissection on the gallbladder side, patient safety is favorable and progression to clipping should be low risk. ",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed with posterior and anterior clearance on the cystic plate to complete CVS, then clip/divide the cystic artery followed by the cystic duct, and finish the gallbladder bed dissection with careful hemostasis. With current exposure and disciplined technique, the case should complete laparoscopically with low blood loss and negligible bile duct injury risk."
+  },
+  "17807075": {
+    "Task1_Anatomy": "The gallbladder and hepatocystic triangle are partially dissected with good retraction, minimal oozing, and no significant inflammation or adhesions. A probable cystic duct area is exposed but not yet fully circumferentially defined; no cystic artery is clearly seen. Liver surface is intact and dry.",
+    "Task2_Final": "This frame represents mid-dissection of Calot’s triangle with adequate traction and partial anterior clearance but without a complete CVS. Proceeding to further skeletalization and lower gallbladder detachment is needed before clipping/division to avoid misidentification injury. BDI_RISK_LEVEL=3",
+    "Task2_BDI": 3,
+    "Task3_Final": "Continue lateral traction and careful, gallbladder-side dissection to fully skeletonize the cystic duct and identify the cystic artery, then free the lower third of the gallbladder to obtain the CVS before clipping/dividing. With these precautions and controlled energy use, the case should complete laparoscopically without bile duct injury or significant bleeding."
+  },
+  "168027925": {
+    "Task1_Anatomy": "The hepatocystic triangle is cleanly exposed with a clearly separate cystic duct and cystic artery; the clipper is on the artery. The lower gallbladder appears partially lifted off the liver bed with minimal surface oozing and no bile leak. Overall, only mild serosal hyperemia is present, without dense adhesions or other abnormalities.",
+    "Task2_Final": "This frame shows the artery-clipping step with a well-exposed Calot’s triangle and clear separation of the cystic duct and artery, indicating steady progress toward safe control of structures. Before duct division, completing the lower-third gallbladder detachment would finalize the CVS and further reduce BDI risk.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed to clip and divide the cystic artery, complete lower-third gallbladder detachment to finalize CVS, then clip/divide the cystic duct after reconfirming a single remaining duct with a posterior window. With careful traction and precise clip placement, the operation should complete laparoscopically with minimal blood loss and a low risk of bile duct injury."
+  },
+  "188023125": {
+    "Task1_Anatomy": "The Calot’s area shows mild inflammatory changes with small oozing, a visible cystic duct targeted by the clipper, a visible cystic artery, and a partially exposed cystic plate. No bile leak or dense adhesions are evident in this frame.",
+    "Task2_Final": "This frame shows the pre-clipping phase on the cystic duct with partial but not complete CVS. Additional clearing of Calot’s triangle and completion of lower-third gallbladder detachment are advisable before clip application to minimize bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Pause clipping, finish skeletonizing the cystic duct and artery, and detach the lower third of the gallbladder from the liver bed to fully achieve CVS, keeping energy use minimal and visualization clear. Once CVS is confirmed, apply clips correctly and complete division and gallbladder removal; the expected outcome is safe laparoscopic completion with low complication risk."
+  },
+  "18205400": {
+    "Task1_Anatomy": "Left-hand grasper retracts Hartmann’s pouch; right-hand hook dissects peritoneum/fat over the gallbladder neck and cystic duct on the cystic plate. The hepatocystic triangle is partially cleared with a developing window, showing minimal inflammation and no active bleeding; only one tubular structure is clearly identifiable at this time. CVS is not yet met: C1 not achieved, C2 partial, C3 mostly achieved.",
+    "Task2_Final": "This frame represents Calot’s triangle dissection with partial lower-gallbladder detachment and a developing window on the cystic plate. Progress is appropriate with minimal inflammation and good exposure, but CVS is incomplete; safe continuation requires further skeletonization and identification of the cystic artery before division.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed by completing anterior/posterior peritoneal dissection close to the gallbladder to skeletonize the cystic duct and identify the cystic artery, enlarging the posterior window until all three CVS criteria are met. Avoid medial/deep dissection and thermal spread; once CVS is secured, clip/divide the artery and duct and finish off the cystic plate. Expected outcome is an uncomplicated laparoscopic completion with minimal blood loss and no bile leak."
+  },
+  "163052175": {
+    "Task1_Anatomy": "The gallbladder serosa and cystic plate show mild inflammatory change with fibrofatty tissue and punctate capillary oozing, without bile spillage. The hepatocystic triangle is not fully cleared; no discrete cystic duct or artery are defined in this frame. No other abnormalities are apparent.",
+    "Task2_Final": "This frame represents early-to-mid Calot’s/hepatocystic triangle dissection on the cystic plate prior to achieving the critical view of safety. Visualization is acceptable but incomplete, with mild inflammation and oozing; further careful exposure is required before clipping or division.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with gallbladder-sided, low-energy dissection to fully clear the hepatocystic triangle, skeletonize and confirm two tubular structures, and detach the lower third of the gallbladder before clipping/dividing. Maintain optimal traction, control oozing, and stay above Rouviere’s sulcus; consider bail-out or cholangiography if anatomy remains unclear. Expected outcome is an uncomplicated laparoscopic completion once CVS is achieved."
+  },
+  "175072125": {
+    "Task1_Anatomy": "The Calot’s region is inflamed with edematous tissue and minor oozing; the cystic duct and cystic artery are only partially skeletonized and remain obscured by fibroareolar tissue. The lower gallbladder is still attached to the liver bed with inflammatory adhesions; no bile leakage is visible.",
+    "Task2_Final": "This frame shows the Calot’s triangle dissection phase with inflamed tissue and minor oozing, leaving the cystic duct and artery only partially exposed. Additional careful dissection and hemostasis are required before attempting clips to minimize bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous, GB-side blunt dissection using the suction tip to fully skeletonize the cystic duct and artery, control oozing, and detach the lower GB from the liver to achieve CVS before clipping. If safe exposure cannot be achieved, convert to a bailout strategy; otherwise, expect an uncomplicated laparoscopic completion with minimal blood loss and no bile leak."
+  },
+  "176010925": {
+    "Task1_Anatomy": "The hepatocystic triangle is being dissected with mild oozing and minimal cautery char, without bile leak. Tissue planes are favorable, with no dense adhesions or marked inflammation. The cystic duct and a smaller arterial structure appear partially skeletonized but not yet fully cleared.",
+    "Task2_Final": "This frame shows the Calot’s triangle dissection with partial skeletonization of the cystic duct and artery and developing separation of the lower gallbladder from the liver bed. Conditions are favorable and safe, but CVS is not yet complete; further clearance and confirmation are needed before clipping.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with careful anterior and posterior peritoneal dissection on the gallbladder side, fully skeletonize the cystic duct and artery, and detach the lower gallbladder to complete CVS before clipping/division. Maintain controlled traction and minimal thermal spread; expect an uncomplicated completion with low blood loss and no bile duct injury."
+  },
+  "177039825": {
+    "Task1_Anatomy": "The infundibulum and Calot’s triangle show mild–moderate inflammatory changes with residual fibrofatty tissue and minor oozing; no bile spillage or obvious perforation. Only one tubular structure (cystic duct) is clearly visible; the cystic artery is not confidently identified. The lower gallbladder remains attached to the cystic plate.",
+    "Task2_Final": "This frame shows early–mid Calot’s triangle dissection with partial cystic duct skeletonization under lateral traction. CVS is not yet obtained, so clipping/cutting should be deferred; ongoing careful dissection on the gallbladder side is indicated to reduce misidentification risk. BDI_RISK_LEVEL=3",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with gallbladder-side dissection to fully clear the anterior and posterior leaves of Calot’s triangle, create a posterior window, identify two structures, and detach the lower gallbladder from the cystic plate before clipping. Avoid grasping the duct and limit cautery spread near deep structures; if CVS cannot be obtained, employ bailout strategies. Expected outcome is successful laparoscopic completion with minimal complications if CVS is achieved."
+  },
+  "16208075": {
+    "Task1_Anatomy": "The gallbladder shows mild serosal hyperemia with minor oozing at the dissection plane and only filmy peritoneal attachments. A presumed cystic artery is visible but not skeletonized; the hepatocystic triangle is partially cleared without bile spillage or gross abnormality.",
+    "Task2_Final": "This frame represents anterior peritoneal dissection of Calot’s triangle with lateral traction of the infundibulum, early-mid exposure before CVS. Safe progress requires continued on-gallbladder dissection to identify both cystic duct and artery and to clear the triangle; current BDI risk remains present until CVS is obtained.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with careful on-gallbladder dissection to fully clear the hepatocystic triangle, skeletonize the cystic structures, and detach the lower gallbladder to meet CVS before clipping/division. With controlled energy use and optimal traction, the case should complete laparoscopically with low complication risk and minimal blood loss."
+  },
+  "193028575": {
+    "Task1_Anatomy": "The gallbladder and Calot’s area show mild inflammation with small capillary oozing but no dense adhesions or bile spillage. The cystic duct is only partially skeletonized; the cystic artery is not seen. The adjacent liver surface appears intact without bleeding.",
+    "Task2_Final": "The case is in the Calot’s triangle dissection phase with partial exposure of the cystic duct and ongoing clearance of the hepatocystic triangle; CVS is not yet met. With controlled traction and minimal inflammation, safe progression is expected, but clipping/division should wait until both tubular structures are clearly seen and the lower gallbladder is off the liver bed.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with controlled anterior and posterior dissection on the gallbladder side to fully skeletonize the cystic duct, identify the cystic artery, detach the lower gallbladder from the liver bed, and confirm all CVS criteria before clipping/dividing. Maintain meticulous traction, hemostasis, and energy discipline; if done, the operation should complete laparoscopically with low blood loss and low risk of bile duct injury."
+  },
+  "197058725": {
+    "Task1_Anatomy": "There is active subserosal dissection on an inflamed gallbladder-liver interface with capillary oozing and fibrous adherence, but no bile leak or major bleeding. The hepatocystic triangle contents (cystic duct/artery) are not visualized in this frame.",
+    "Task2_Final": "This frame reflects subserosal dissection on the cystic plate during cholecystectomy, before exposure of the cystic duct/artery and before CVS. Inflammation and oozing modestly impair visualization, so careful hemostasis and continued Gallbladder-side dissection are needed to safely progress to CVS.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous subserosal dissection on the gallbladder side, prioritizing hemostasis and exposure of the hepatocystic triangle before any clipping. Confirm CVS, then divide the cystic structures and complete the cholecystectomy; outcome is likely favorable laparoscopically, with bailout considered only if anatomy remains unsafe."
+  },
+  "194020925": {
+    "Task1_Anatomy": "There is partial peritonealization of the cystic plate with a posterior window and minimal ooze, while the hepatocystic triangle is only partly cleared. The gallbladder serosa shows mild hyperemia without edema, bile leak, or significant adhesions. No confidently identified cystic duct or artery is seen in this frame.",
+    "Task2_Final": "This frame shows early-to-mid Calot’s dissection with posterior window formation and partial cystic plate exposure; CVS is not yet obtained. With mild inflammation and controlled oozing, continued careful dissection on the gallbladder side should permit safe progression before clipping.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed with cautious peritonealization on the gallbladder side, optimize traction, and fully skeletonize the cystic duct and artery to achieve CVS before clipping/division. With these steps and judicious energy use, the case should complete laparoscopically with minimal blood loss and low complication risk."
+  },
+  "176013925": {
+    "Task1_Anatomy": "The hepatocystic triangle is well exposed with the cystic duct encircled by a clip applier and the cystic artery identified superiorly. The cystic plate is visible with mild cautery effect and minimal oozing; the gallbladder shows mild serosal congestion without bile spillage or dense adhesions.",
+    "Task2_Final": "This frame shows clipping of the cystic duct with the cystic artery identified and the hepatocystic triangle well cleared, indicating near-complete CVS. Proceeding to ligation and division is appropriate once the lower gallbladder detachment is confirmed. Overall, patient safety appears favorable with low risk if CVS is maintained.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Confirm CVS with a clear posterior window to both the cystic duct and artery, then place secure clips and divide the duct followed by the artery, keeping dissection on the cystic plate and minimizing energy near the duct. Finish gallbladder detachment, ensure hemostasis, and inspect for bile leak; an uncomplicated completion is likely."
+  },
+  "199028500": {
+    "Task1_Anatomy": "Calot’s triangle is well exposed with a clearly skeletonized cystic artery and cystic duct; the gallbladder appears non-inflamed, and only mild capillary oozing is present without bile leakage or dense adhesions. The clipper is being applied to the cystic artery; partial cystic plate exposure is visible, but full lower-third detachment from the liver bed is not confirmed.",
+    "Task2_Final": "This frame shows the pedicle control phase with the cystic artery about to be clipped in a largely cleared Calot’s triangle, and two structures to the gallbladder are identifiable. Proceeding is reasonable once the lower third of the gallbladder is separated from the liver bed to fully satisfy CVS and minimize bile duct injury risk.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Complete skeletonization of the duct and artery and detach the lower third of the gallbladder from the liver bed to fully achieve CVS, then clip/divide the cystic artery followed by the cystic duct, keeping all actions close to the gallbladder and controlling minor oozing. Given the clear anatomy and minimal inflammation, the procedure should complete laparoscopically with low risk of bile duct injury and minimal blood loss."
+  },
+  "190046425": {
+    "Task1_Anatomy": " The hepatocystic triangle is largely cleared with two identifiable tubular structures (cystic duct and cystic artery) entering the gallbladder. There is mild gallbladder serosal inflammation and minimal oozing, without dense adhesions or bile leak. No other abnormalities are apparent.",
+    "Task2_Final": " The case is at the clipping step of the cystic duct with good exposure and two structures identified, but the lower gallbladder detachment is not shown, so full CVS is not yet documented. Proceeding to division now carries a preventable risk; brief additional dissection to complete CVS is advised before clipping/dividing.",
+    "Task2_BDI": 3,
+    "Task3_Final": " Finish skeletonization and detach the lower third of the gallbladder from the liver bed to fully satisfy CVS, then clip and divide the cystic duct followed by the cystic artery and complete retrograde cholecystectomy with careful hemostasis. With these steps, the operation should proceed uneventfully with low bleeding risk and a very low chance of bile duct injury."
+  },
+  "173023600": {
+    "Task1_Anatomy": "Mild hyperemia and minor oozing are present in the hepatocystic triangle; the cystic duct and artery are not yet clearly identified. The gallbladder appears without dense adhesions or bile leak. The lower gallbladder does not appear detached from the liver bed in this frame.",
+    "Task2_Final": "This frame represents active Calot’s triangle dissection with minor oozing and incomplete exposure; CVS has not yet been met. Proceeding without further clearance would risk misidentification; with improved exposure and hemostasis, standard progression to CVS appears achievable.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Prioritize hemostasis and exposure, keep dissection on the gallbladder wall, and continue anterior/posterior peritoneal clearance until two distinct cystic structures are skeletonized and the lower gallbladder is off the liver bed to achieve CVS before clipping/division. If clarity is not attainable, use IOC or a bailout strategy. The procedure will likely complete laparoscopically with minimal blood loss and a low risk of bile duct injury."
+  },
+  "168024925": {
+    "Task1_Anatomy": "The infundibulum is well retracted with Calot’s triangle largely cleared, showing a posterior window and two candidate tubular structures (cystic duct and cystic artery) without bleeding or bile leak. Mild inflammatory changes are present but there are no dense adhesions or other abnormalities.",
+    "Task2_Final": "This frame shows the Calot’s triangle dissection phase with the cystic duct and artery largely skeletonized and a clear posterior window, approaching the critical view. Safety is favorable with low bleeding and mild inflammation, but full lower-third detachment should be completed before clipping to minimize misidentification and thermal injury risks.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed to complete circumferential skeletonization of the cystic duct and artery and detach the lower third of the gallbladder from the liver bed to fully achieve CVS, using controlled, gallbladder-side dissection with minimal cautery near the duct. After confirming CVS, clip and divide the artery and duct sequentially and finish the cholecystectomy; an uncomplicated laparoscopic outcome is likely."
+  },
+  "198034950": {
+    "Task1_Anatomy": "Calot’s triangle is partially cleared with minor oozing; the cystic duct is only partly skeletonized with no bile leak, and a distinct cystic artery is not yet confidently identified. The gallbladder neck appears non-thickened without significant adhesions, and the adjacent liver surface shows a small raw area from dissection.",
+    "Task2_Final": "The operation is in the Calot’s triangle dissection phase with partial exposure of the cystic duct and ongoing hook cautery clearance; CVS has not yet been achieved. Continued careful skeletonization and hemostasis are required before clipping to minimize bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed by optimizing traction, completing medial and lateral peritoneal clearance to skeletonize the cystic duct and a separate cystic artery, and achieve CVS before any clipping/division; keep dissection on the gallbladder side with careful hemostasis and low-power cautery. If this plan is followed, a straightforward laparoscopic completion with low complication risk is expected."
+  },
+  "16907925": {
+    "Task1_Anatomy": "The hepatocystic triangle shows partial clearance with mild inflammatory hyperemia and small venous oozing; the cystic duct is visible but not fully skeletonized and the cystic artery is not clearly isolated. The gallbladder wall appears inflamed without bile leak or perforation, and the cystic plate is not widely exposed, suggesting the lower gallbladder is not yet detached from the liver bed.",
+    "Task2_Final": "This frame shows ongoing Calot’s triangle dissection with retraction and blunt dissection but incomplete exposure; the cystic duct is identified while the artery is not fully isolated, and the lower gallbladder is not detached from the liver bed. Proceeding to clips now would be unsafe; further clearance to achieve CVS is required to minimize bile duct injury.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with further clearance of Calot’s triangle using traction/counter-traction, blunt dissection with suction, and limited energy to skeletonize the cystic duct and artery and to detach the lower gallbladder from the liver bed before any clipping. Maintain the dissection on the gallbladder and above Rouviere’s sulcus, and use a bailout if CVS cannot be achieved; expected outcome is uncomplicated laparoscopic completion with low risk of bile leak or major bleeding."
+  },
+  "168021925": {
+    "Task1_Anatomy": "The gallbladder appears non-inflamed with no evident adhesions or fluid spillage. The cystic duct and a likely cystic artery are visible but not yet fully skeletonized; there is no bleeding or bile leak. The hepatocystic triangle remains partially covered by fibrofatty/peritoneal tissue, and the lower gallbladder has not been clearly separated from the liver bed in this frame.",
+    "Task2_Final": "The procedure is in the Calot’s triangle dissection phase with peritoneal and fibrofatty tissue being cleared to identify the cystic duct and artery. Conditions appear favorable with minimal inflammation, but CVS has not been reached; safe progress requires continued controlled skeletonization on the gallbladder side before clipping. Bile duct injury risk remains present until CVS is completed.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with controlled, gallbladder-side dissection anteriorly and posteriorly to skeletonize the cystic duct and artery, create a posterior window, and detach the lower gallbladder to achieve CVS before any clipping. Maintain precise traction and low-power, tip-visible cautery to avoid thermal or misidentification injury. Given the benign tissue conditions in this frame, a smooth laparoscopic completion is likely with low complication risk."
+  },
+  "184035125": {
+    "Task1_Anatomy": "The hepatocystic triangle is partially cleared with mild inflammatory changes and minor oozing; the cystic duct and cystic artery are visible but not fully skeletonized. The cystic plate is only partially exposed, and the lower gallbladder is not clearly detached from the liver bed.",
+    "Task2_Final": "This frame shows the Calot’s triangle dissection phase with partial exposure of the cystic duct and artery; the CVS is not yet complete. Continued careful skeletonization and partial detachment of the lower gallbladder from the liver bed are required before clipping to minimize misidentification risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed to complete triangle clearance, circumferentially skeletonize the cystic duct and artery, and detach the lower third of the gallbladder from the cystic plate to achieve CVS before clipping/division, keeping dissection on the gallbladder side and limiting cautery. If exposure or identification remains uncertain, use adjuncts or bail-out strategies; the likely outcome is safe laparoscopic completion without bile duct injury."
+  },
+  "16403450": {
+    "Task1_Anatomy": "Calot’s triangle is partly skeletonized with minor oozing and cautery effect but no bile leak. The cystic artery is isolated and being clipped; the cystic duct is not cleanly delineated in this frame. No obvious acute cholecystitis or adhesions are visible here.",
+    "Task2_Final": "The operation is at the cystic-artery clipping step after partial Calot dissection. Progress is good, but CVS is not fully demonstrated in this frame; further clearance and confirmation are recommended before dividing structures. BDI risk is therefore moderate at this moment.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed to complete posterior clearance and confirm CVS before dividing any structures; then clip/divide artery and duct in standard fashion and finish retrograde gallbladder detachment with hemostasis. If anatomy remains unclear, use a bailout strategy. Prognosis is favorable for uncomplicated laparoscopic completion."
+  },
+  "187011225": {
+    "Task1_Anatomy": "The infundibulum and cystic duct are partially skeletonized with a developing posterior window and only mild hyperemia and scant oozing. No dense adhesions or bile leak are seen. The field suggests early-to-mid Calot’s dissection without clear visualization of a separate cystic artery.",
+    "Task2_Final": "The case is in the Calot’s dissection phase with a partially developed posterior window around the cystic duct, but the cystic artery and lower gallbladder detachment are not yet demonstrated. Proceeding to clip/divide now would be unsafe; further dissection to achieve full CVS is needed.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Continue careful anterior and posterior peritoneal dissection close to the gallbladder to enlarge the posterior window, identify the cystic artery, and detach the lower gallbladder to meet CVS before clipping. Avoid deep/medial cautery and any division until two distinct structures are clearly seen entering the gallbladder. The procedure is expected to complete laparoscopically with low complication risk."
+  },
+  "183026000": {
+    "Task1_Anatomy": "The hepatocystic triangle appears mostly cleared with two discrete tubular structures (cystic duct and cystic artery) identified; mild inflammatory changes and minor oozing are present without dense adhesions. No bile leak or major bleeding is seen in this frame.",
+    "Task2_Final": "This frame shows the clipping stage of the cystic duct with the triangle largely cleared and two structures identified, suggesting near-CVS conditions but without clear demonstration of lower gallbladder detachment. Progress appears safe but confirming full CVS before division would further reduce risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Confirm and complete the CVS by finishing clearance and detaching the lower gallbladder, then securely clip and divide the cystic duct and artery, followed by safe gallbladder bed dissection and hemostasis. If these steps are followed, a straightforward laparoscopic completion with low complication risk is expected."
+  },
+  "190028425": {
+    "Task1_Anatomy": "There is mild inflammatory change with limited oozing around the gallbladder infundibulum and cystic plate during active peritoneal dissection. No dense adhesions, bile leak, or other abnormalities are visible. The hepatocystic triangle is only partially cleared in this frame.",
+    "Task2_Final": "This frame shows early-to-mid Calot’s triangle dissection with medial peritoneum being opened under lateral infundibular traction; exposure is developing but the cystic duct and artery are not yet defined and the lower gallbladder is not fully off the liver bed. Proceeding to clipping now would be unsafe; continued careful skeletonization on the gallbladder side is indicated.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Continue gallbladder-side dissection by completing medial and lateral peritoneal openings, clearing fibroareolar tissue, and taking the lower third of the gallbladder off the liver bed until the two cystic structures are unequivocally identified (CVS) before clipping. Maintain precise traction and low-power cautery to avoid thermal/ductal injury, with bailout options if the plane becomes unsafe. The expected outcome is an uncomplicated laparoscopic cholecystectomy with minimal blood loss."
+  },
+  "201046050": {
+    "Task1_Anatomy": "Calot’s elements are well exposed with mild hyperemia and minimal oozing, without bile leak or dense adhesions. The cystic artery is isolated and being clipped; the cystic duct is visible and largely skeletonized. The cystic plate is partially exposed, suggesting partial lower gallbladder detachment.",
+    "Task2_Final": "This is the clipping step of the cystic artery with a well-exposed hepatocystic triangle and clear identification of the cystic duct and artery. Safety is favorable but completing or confirming lower-third detachment before duct division will further mitigate BDI risk.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Confirm or complete CVS by ensuring the lower third of the gallbladder is off the liver bed, then clip/divide the cystic artery and the cystic duct in sequence, keeping dissection on the gallbladder side with meticulous hemostasis. With this plan, an uncomplicated completion of laparoscopic cholecystectomy is expected and the risk of bile duct injury remains low."
+  },
+  "189034800": {
+    "Task1_Anatomy": "The hepatocystic triangle is mostly skeletonized with identifiable cystic duct and artery; mild inflammation and oozing are present without bile leak or gross adhesions. The lower third of the gallbladder still appears attached to the liver bed.",
+    "Task2_Final": "The case is at the point of clipping the cystic artery with the hepatocystic triangle largely skeletonized but the lower gallbladder still attached. Visualization is adequate, yet completing CVS (lifting the lower GB off the liver bed) and controlling minor oozing will further reduce misidentification risk and facilitate safe clipping/division.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Complete CVS by further clearing the triangle and lifting the lower gallbladder off the liver bed, then clip/divide the cystic artery and duct with clear 360° windows, maintaining dissection on the gallbladder side and controlling oozing. With these steps, the procedure should complete laparoscopically with low blood loss and a low risk of bile duct injury."
+  },
+  "163055175": {
+    "Task1_Anatomy": "There is partial exposure of the cystic plate with a clear areolar plane and mild localized congestion near the gallbladder neck, with minimal oozing and no bile leakage. No dense adhesions are seen, and the liver surface is intact. The cystic duct and artery are not distinctly identified in this frame.",
+    "Task2_Final": "This frame represents ongoing dissection at the hepatocystic triangle with partial exposure of the cystic plate and positioning of a clip applier near the gallbladder neck but without definitive visualization of the cystic duct and artery. Further skeletonization is needed before safe clipping to minimize misidentification risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with further skeletonization of Calot’s triangle and partial gallbladder detachment to achieve the Critical View of Safety before any clipping; keep dissection on the cystic plate with meticulous hemostasis and proper traction. If this is done, a straightforward laparoscopic completion is likely with low complication risk; otherwise, use an accepted bailout strategy if anatomy remains uncertain."
+  },
+  "194024675": {
+    "Task1_Anatomy": "The hepatocystic triangle appears cleanly dissected with two distinct tubular structures to the gallbladder; the serosa shows only mild hyperemia without dense adhesions or fluid collections. No bile leak or active bleeding is seen. The cystic plate near the neck is partly exposed.",
+    "Task2_Final": "This frame shows clipping of the cystic artery after a clean dissection of the hepatocystic triangle; the cystic duct is identified and separate. Safety is favorable, though completion of lower gallbladder detachment (C3) would further secure CVS before dividing. BDI risk is low if current technique is maintained.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed to complete C3 by further detaching the lower gallbladder on the cystic plate, then clip/divide the cystic artery followed by the cystic duct under steady, clear visualization. Maintaining dissection on the cystic plate and ensuring clips capture only the intended structures should yield an uncomplicated laparoscopic completion with low risk of bile duct injury or conversion."
+  },
+  "167020200": {
+    "Task1_Anatomy": "There is partial dissection of the hepatocystic triangle with mild hyperemia and minor oozing but no dense adhesions and no bile spillage. A small tubular structure consistent with the cystic artery is targeted by the clipper; a distinct cystic duct is not clearly seen in this single frame.",
+    "Task2_Final": "This frame shows preparation to clip the cystic artery during Calot’s triangle dissection, but CVS is not yet demonstrated. Further dissection and exposure are required before clipping/dividing to minimize bile duct injury risk. Overall progression appears controlled, with mild inflammation and minor oozing only.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed by improving exposure and completing careful, wall-hugging dissection to fully skeletonize and identify the cystic duct and artery before any clipping, then secure the artery and duct sequentially and finish the gallbladder off the liver bed with hemostasis and a final safety check. If uncertainty persists at any point, pause for cholangiography or a bailout strategy. With this approach, an uncomplicated completion is likely."
+  },
+  "200014125": {
+    "Task1_Anatomy": "The hepatocystic triangle shows moderate inflammatory change with residual fibroareolar tissue and minor oozing; the cystic duct and artery are suggested but not clearly skeletonized. The lower gallbladder remains attached to the liver bed, and exposure is still being developed.",
+    "Task2_Final": "This frame shows active exposure of Calot’s triangle with moderate inflammation and minor oozing; duct and artery are not yet clearly defined, and the lower gallbladder remains attached. Further careful dissection is needed before any clipping or division.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous, gallbladder-side dissection to clear the anterior and posterior aspects of Calot’s triangle, control oozing, skeletonize the cystic duct and artery, and detach the lower gallbladder to achieve CVS before any clipping. If safe planes cannot be obtained, employ a bail-out strategy. Expected outcome is successful laparoscopic completion with low risk if CVS is secured."
+  },
+  "172037900": {
+    "Task1_Anatomy": "The Calot’s area shows inflamed, edematous tissue with fibrofatty adhesions and mild oozing; discrete cystic duct and cystic artery are not yet defined. The liver surface appears intact without bleeding or bile leakage.",
+    "Task2_Final": "This frame represents Calot’s triangle dissection with ongoing exposure using hook cautery; inflammation and oozing obscure ductal anatomy, and CVS is not yet achieved. Safe progress requires further careful clearance before any clipping or division.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with methodical anterior and posterior peritoneal dissection close to the gallbladder, maintain traction–countertraction, control oozing, and skeletonize until two tubular structures are clearly defined to achieve CVS before clipping or cutting; avoid deep medial dissection and excessive cautery. Expect successful laparoscopic completion, though inflammation may necessitate a bailout if CVS cannot be achieved."
+  },
+  "177043575": {
+    "Task1_Anatomy": "The gallbladder and Calot’s triangle show mild-to-moderate inflammatory change with hyperemia and small-volume oozing; no definite abnormal adhesions or bile leak are seen. The cystic duct region is only partially skeletonized with residual fat/edema, and the cystic plate is not broadly exposed in this frame.",
+    "Task2_Final": "This frame captures clip placement on a cystic structure during pedicle control with only partial skeletonization and limited cystic plate exposure. Patient safety would be improved by completing CVS prior to any division; current exposure suggests moderate risk if division proceeds now.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed to optimize exposure, control oozing, and complete circumferential skeletonization with creation of posterior windows and partial lower gallbladder detachment to achieve CVS before any division. Once CVS is confirmed, safely clip and divide the cystic structures and complete the cholecystectomy; prognosis is favorable for uncomplicated laparoscopic completion if these steps are followed."
+  },
+  "17807825": {
+    "Task1_Anatomy": "The hepatocystic triangle appears partially dissected with one clear tubular structure consistent with the cystic duct; the cystic artery is not clearly seen. There is minimal oozing and no dense inflammation or adhesions. Overall exposure is reasonable but not fully skeletonized.",
+    "Task2_Final": "This frame shows pre-clip alignment on the cystic duct with traction on the gallbladder to expose Calot’s triangle. As CVS is not demonstrated here, further dissection and verification are advised before clipping to minimize bile duct injury risk. ",
+    "Task2_BDI": 3,
+    "Task3_Final": "Complete skeletonization of the cystic duct and identification of the cystic artery, followed by partial detachment of the lower gallbladder, should precede any clip application. After confirming CVS, clip/divide artery then duct and finish the cholecystectomy; this approach predicts an uncomplicated laparoscopic completion with low risk of bile duct injury."
+  },
+  "173020600": {
+    "Task1_Anatomy": "The gallbladder appears thin-walled without acute inflammation and is being retracted laterally; the hepatocystic triangle is partially cleared with minor oozing but no bile leakage. A presumed cystic duct is visible but not fully skeletonized, and a second tubular structure is not clearly defined in this frame. No dense adhesions or other abnormalities are evident.",
+    "Task2_Final": "This frame shows Calot’s triangle dissection in progress with partial cystic duct exposure and good traction, but CVS is not yet obtained. The field is favorable with minimal inflammation; the main safety priority is to keep dissection on the gallbladder side until two structures are clearly defined and a posterior window is created.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed by completing anterior and posterior dissection close to the gallbladder to create a posterior window, then skeletonize and clearly identify two structures before clipping and dividing, maintaining meticulous hemostasis and traction. Avoid medial/deep dissection and thermal spread; if anatomy remains unclear, choose a bailout strategy. Expected outcome is uncomplicated laparoscopic completion with low blood loss and no bile leak."
+  },
+  "186027250": {
+    "Task1_Anatomy": "The hepatocystic region shows moderate inflammatory change with edematous, hyperemic tissues and minor oozing; adhesions/peritoneal attachments are being lysed in Calot’s triangle. The cystic duct is partly skeletonized without visible bile leak; the lower gallbladder is partially detached from the cystic plate. No other abnormal structures are clearly identified in this single frame.",
+    "Task2_Final": "This frame shows Calot’s triangle dissection in progress with partial exposure and partial detachment from the cystic plate. Inflammation and minor bleeding make anatomy less distinct, so advancing without completing CVS would increase bile duct injury risk; careful continued skeletonization is required. \nBDI_RISK_LEVEL=3",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous anterior and posterior skeletonization on the gallbladder side, improve lower-third detachment, and confirm two and only two tubular structures before clipping/division; control oozing and avoid medial/thermal injury. If clarity does not improve, employ bailout strategies rather than dividing uncertain structures. Expected outcome is successful laparoscopic completion with low complication risk if CVS is achieved."
+  },
+  "179015800": {
+    "Task1_Anatomy": "The gallbladder shows mild serosal hyperemia without dense adhesions or active bleeding; the liver surface is intact and dry. The hepatocystic triangle is not yet cleared, and no distinct cystic duct or artery is visible in this frame; only peritoneal/areolar tissue is being incised.",
+    "Task2_Final": "This frame shows early Calot’s dissection with medial peritoneal scoring on the cystic plate under lateral traction, prior to full exposure of the hepatocystic triangle. Anatomy is not yet defined, so safe continuation requires staying on the gallbladder side until the duct and artery are clearly skeletonized and the lower gallbladder is partially lifted off the liver bed.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed by completing medial and lateral peritoneal incisions, bluntly clearing the hepatocystic triangle, and detaching the lower third of the gallbladder to obtain the critical view before clipping/dividing the cystic structures, keeping the dissection strictly on the gallbladder side. If anatomy remains unclear, pause and employ bailout strategies; with this approach, a safe laparoscopic completion is likely with low complication risk."
+  },
+  "167014950": {
+    "Task1_Anatomy": "- The hepatocystic triangle is partially skeletonized with identifiable cystic duct and a small arterial structure; there is minor oozing from the dissection bed without bile leakage. The gallbladder wall looks non-inflamed and free of dense adhesions. Liver surface appears intact.",
+    "Task2_Final": "- The case is in the Calot’s triangle dissection phase with partial skeletonization of the cystic duct and artery and minor oozing. CVS is not complete because the lower gallbladder is not yet off the liver bed; proceed with further safe exposure before clipping.",
+    "Task2_BDI": 3,
+    "Task3_Final": "- Continue on-gallbladder dissection to fully skeletonize the cystic duct and artery, control oozing, and take the lower third of the gallbladder off the liver bed to complete CVS before clipping. Maintain lateral traction, stay above Rouvière’s sulcus, and avoid medial deep dissection toward the common bile duct. Expected outcome is uncomplicated laparoscopic completion with minimal blood loss and no bile duct injury."
+  },
+  "174024950": {
+    "Task1_Anatomy": "The gallbladder shows mild inflammatory changes with minimal oozing. The hepatocystic triangle is only partially cleared with residual areolar tissue; the cystic artery is suggested but not fully skeletonized, and the cystic duct is not clearly seen. No significant adhesions or fluid collections are evident.",
+    "Task2_Final": "This frame represents Calot’s triangle dissection prior to safe clipping, with only partial exposure and no confirmed two-structure view. Further skeletonization and posterior window creation are required to meet CVS before any clipping or division. BDI risk at this moment, if proceeding to clip, is moderate.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Complete anterior and posterior skeletonization of Calot’s triangle, create a posterior window, and peel the lower gallbladder off the liver bed to achieve CVS before any clipping. Keep dissection on the gallbladder side with meticulous hemostasis; once CVS is confirmed, clip and divide the cystic artery and duct and finish the cholecystectomy. Outcome is expected to be uneventful if CVS is respected."
+  },
+  "188020125": {
+    "Task1_Anatomy": "This is an in-progress Calot’s dissection with the fundus retracted cephalad and the infundibulum retracted laterally. The triangle is partially opened with mild-to-moderate oozing, and the cystic duct/artery are not confidently skeletonized or distinguished in this frame. The lower gallbladder remains attached to the liver bed.",
+    "Task2_Final": "This frame shows Calot’s triangle dissection in progress with traction-countertraction but incomplete exposure due to oozing and residual tissue. Identification of the cystic duct and artery is not secure; further hemostasis and dissection are required before clipping.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with suction–irrigation, hemostasis, and meticulous dissection on the gallbladder wall to fully expose anterior/posterior windows and achieve CVS before clipping. If exposure remains unsafe, choose a bail-out strategy rather than dividing unclear structures; expected outcome is successful laparoscopic completion without BDI."
+  },
+  "166013700": {
+    "Task1_Anatomy": "The gallbladder and cystic structures are visible with minimal inflammation and only flimsy peritoneal adhesions. The hepatocystic triangle is being opened with minimal bleeding and no bile spillage. No anatomic anomalies are apparent in this frame.",
+    "Task2_Final": "This frame represents ongoing Calot’s triangle dissection with partial skeletonization of the cystic duct and artery and good traction. The field is favorable with minimal inflammation, but CVS is incomplete; careful continuation is needed before clipping. BDI risk is currently moderate due to incomplete CVS and active cautery near ductal structures.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed to fully clear the hepatocystic triangle, develop the posterior window, and detach the lower third of the gallbladder to achieve and document CVS before clipping/dividing the cystic artery and duct. Maintain dissection strictly on the gallbladder side with precise energy use and optimal traction; if anatomy is uncertain, escalate with adjuncts or bailout. Expected outcome is uneventful completion without bile duct injury."
+  },
+  "191014075": {
+    "Task1_Anatomy": "- Smooth right-lobe liver surface without bleeding or obvious inflammation is seen; the gallbladder region is not clearly delineated, and no discrete cystic duct is visible. There are no evident adhesions, bile staining, or hemorrhage in this frame.",
+    "Task2_Final": "- This appears to be an early dissection/exposure step before the CVS is obtained. With a clear and dry field but no defined structures yet, further careful dissection is required before clipping to minimize BDI risk. Proceed methodically to expose the hepatocystic triangle and achieve CVS.",
+    "Task2_BDI": 3,
+    "Task3_Final": "- Avoid clipping until CVS is obtained, keep dissection on the gallbladder surface, and maintain optimal traction with meticulous hemostasis. Proceed to open the anterior/posterior peritoneum, clear the hepatocystic triangle, lift the lower gallbladder off the liver bed, verify CVS, then clip/divide safely; consider cholangiography or bail-out if anatomy remains unclear. A straightforward laparoscopic completion with low risk of complications is expected."
+  },
+  "201034800": {
+    "Task1_Anatomy": "Two tubular structures (cystic duct and cystic artery) are clearly identified and partially skeletonized within a mostly cleared hepatocystic triangle, with mild inflammatory changes and minor oozing but no bile spillage. The lower gallbladder appears partially separated from the liver bed, creating dissection windows.",
+    "Task2_Final": "The operation is in the Calot’s triangle dissection phase with near-complete CVS: two structures are identified, anterior clearance is good, and the lower gallbladder is partially off the liver bed. Safety is good, but completion of posterior clearance and full lower-third detachment should be verified and documented before clipping and division.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed to complete circumferential clearance of the cystic duct and artery, finish lower-third detachment, and document CVS before clipping and division; keep dissection on the gallbladder side with precise energy and optimal traction to avoid CBD/arterial injury. With these precautions, laparoscopic completion without complications is expected."
+  },
+  "196027525": {
+    "Task1_Anatomy": "The hepatocystic triangle has been opened and partially cleared, with mild oozing but no bile spillage and no dense adhesions apparent. The cystic duct and cystic artery are visible but not fully skeletonized. Liver surface appears intact.",
+    "Task2_Final": "This frame shows the Calot’s triangle dissection phase with partial skeletonization of the cystic duct and artery under adequate retraction. CVS is not yet achieved, so continued cautious dissection on the gallbladder side is needed to maintain safety.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous, gallbladder-side dissection to fully skeletonize the cystic duct and artery, control oozing, and detach the lower gallbladder to complete CVS before clipping/dividing. If visualization or anatomy remains unclear, pause, irrigate, and consider adjuncts or bail-out strategies; otherwise, the case should complete laparoscopically without complication."
+  },
+  "186033250": {
+    "Task1_Anatomy": "The field shows a partially cleared Calot’s triangle with mild hyperemia and oozing. A single tubular structure consistent with the cystic duct is isolated and being clipped, while the lower gallbladder remains incompletely separated from the liver bed. No dense adhesions or bile leak are evident in this frame.",
+    "Task2_Final": "This is the cystic duct control step with a clip applier on the duct in a partially cleared Calot’s triangle. Because CVS is not fully achieved and there is oozing, the safest course is to complete dissection and hemostasis before clip deployment to minimize misidentification risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Complete hemostasis and further skeletonize Calot’s triangle to identify the cystic artery and confirm only two structures to the gallbladder, detaching the lower third of the gallbladder if needed to achieve CVS. Then place secure, perpendicular clips on the cystic duct and artery and divide; the procedure should complete laparoscopically with low complication risk."
+  },
+  "180019600": {
+    "Task1_Anatomy": "The hepatocystic triangle appears mostly cleared with a visible posterior window and a single tubular structure (consistent with cystic duct) exposed; the cystic artery is not clearly seen. The gallbladder and liver look largely normal with no active bleeding or bile leakage.",
+    "Task2_Final": "This frame shows pedicle dissection with the clip applier positioned on the likely cystic duct before full CVS confirmation; the triangle is mostly cleared but the artery is not clearly distinguished and lower-third detachment is partial. Proceeding to clip now would be premature; completion of CVS is advised to minimize BDI risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Complete the dissection to clearly identify two separate structures and fully detach the lower third of the gallbladder before deploying clips, keeping all dissection on the gallbladder side with a confirmed posterior window. After achieving CVS, clip/divide the artery and duct sequentially and proceed to retrograde cholecystectomy; the expected outcome is an uncomplicated procedure with low risk of BDI or bile leak."
+  },
+  "185012000": {
+    "Task1_Anatomy": "The gallbladder appears non-inflamed with partial peritoneal stripping at the infundibulum and minor oozing; no bile spillage or dense adhesions are evident. The liver surface is smooth without bleeding. The hepatocystic triangle soft tissue is only partially cleared with mild capillary oozing.",
+    "Task2_Final": "This frame shows early dissection of the hepatocystic triangle with partial peritoneal stripping and minor oozing but no bile spillage, and the cystic duct/artery are not yet defined. Progress is appropriate but CVS is not achieved; careful continued dissection is required before any clipping or division.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with careful anterior and posterior peritoneal dissection to fully clear the hepatocystic triangle, skeletonize the cystic duct and artery, and detach the lower gallbladder from the liver bed before clipping/division. Maintain dissection close to the gallbladder, control oozing, and confirm CVS; the procedure will likely complete laparoscopically with minimal blood loss and low complication risk."
+  },
+  "172040900": {
+    "Task1_Anatomy": "In this frame, the hepatocystic triangle shows inflamed, edematous tissue with mild oozing and residual fibrofatty attachments; the cystic duct is partially skeletonized and a likely cystic artery is seen superiorly but not fully cleared. No bile spillage or major bleeding is evident.",
+    "Task2_Final": "This is the hepatocystic triangle dissection phase with partial skeletonization of the cystic duct and likely cystic artery; CVS is not yet achieved. Inflammation and oozing raise the risk of misidentification, so meticulous clearance and confirmation are needed before clipping.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous, gallbladder-side dissection to fully skeletonize the cystic duct and artery, achieve CVS, then clip/divide and complete the cholecystectomy in the subserosal plane while controlling oozing. Anticipated outcome is safe laparoscopic completion; bailout (fundus-first or subtotal) if anatomy remains unclear."
+  },
+  "16208825": {
+    "Task1_Anatomy": "The hepatocystic triangle is largely cleared, showing a cystic artery (currently being clipped) and a cystic duct, with mild inflammatory changes and minor oozing but no bile leak. No dense adhesions or atypical anatomy are evident in this frame.",
+    "Task2_Final": "This frame captures clip placement on a well-defined cystic artery with the cystic duct also identified, indicating late Calot’s dissection and arterial control steps; CVS is partial (C1–C2 likely, C3 not shown). Safe progression requires confirming the lower gallbladder is off the liver bed before dividing structures. BDI risk is moderate at this point if division proceeds now.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed to fully demonstrate C3 by dissecting the lower gallbladder off the liver bed and clearing any residual tissue so that all three CVS criteria are met before division. Then clip and divide the cystic artery followed by the cystic duct, staying on the gallbladder, with careful hemostasis and final inspection; the anticipated outcome is an uncomplicated laparoscopic completion with low risk of BDI."
+  },
+  "175072875": {
+    "Task1_Anatomy": "The gallbladder shows mild–moderate inflammatory changes with flimsy adhesions and minimal oozing. The cystic pedicle is only partially skeletonized; one tubular structure is isolated where the clipper is positioned, without visible bile leak. The lower gallbladder remains attached to the liver bed; no other abnormalities are evident.",
+    "Task2_Final": "The case is in the pedicle control phase with a clip applier positioned on a single pedicle structure, but CVS is incomplete (triangle not fully cleared and lower GB still attached). Further dissection is required before any clipping/division to minimize misidentification and BDI risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Do not clip yet; further skeletonize the pedicle, open the posterior window, and detach the lower third of the gallbladder to achieve full CVS, keeping dissection close to the GB and avoiding medial traction that could endanger the CBD. Once CVS is confirmed, clip/divide the cystic artery and cystic duct in sequence and complete the cholecystectomy; the expected outcome is an uncomplicated laparoscopic completion if these steps are followed."
+  },
+  "165023650": {
+    "Task1_Anatomy": "The hepatocystic triangle is partially cleared with a visible posterior window and minimal oozing, and the gallbladder serosa appears non-inflamed without dense adhesions. A tubular structure consistent with the cystic duct is partially skeletonized; a vessel in the expected location of the cystic artery is suggested but not unequivocally defined in this single frame. No bile spillage or major bleeding is seen.",
+    "Task2_Final": "This is the Calot’s triangle dissection phase with a posterior window already created and partial skeletonization of the cystic duct; clipping has not started. Visualization is good and inflammation minimal, but CVS remains incomplete—further safe dissection toward the gallbladder side is needed before clipping/division.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with careful anterior and posterior dissection on the gallbladder side to fully skeletonize the cystic duct and artery, enlarge the posterior window, and detach the lower third of the gallbladder before clipping/division, avoiding medial dissection toward the CBD/CHD. With these precautions, completion laparoscopically is likely and the risk of bile duct injury remains low."
+  },
+  "198037950": {
+    "Task1_Anatomy": "The gallbladder neck and cystic duct are exposed with mild hyperemia and minor oozing but no bile leak or major bleeding. The hepatocystic triangle is only partially cleared and the lower gallbladder remains attached to the liver bed. No adhesions or other abnormalities are evident in this frame.",
+    "Task2_Final": "This frame shows the cystic duct being prepared for clipping during pedicle control, with partial but incomplete exposure of the hepatocystic triangle. Proceeding to clip in this state would be premature and increases bile duct injury risk; further dissection to achieve full CVS is advisable. BDI_RISK_LEVEL={3}",
+    "Task2_BDI": 3,
+    "Task3_Final": "Hold clip application and complete dissection to achieve full CVS by circumferentially skeletonizing the cystic duct and separately identifying the cystic artery, plus detaching the lower gallbladder from the liver bed. After confirming CVS, safely clip/divide artery then duct, control minor oozing, and complete the cholecystectomy; outcome is expected to be uncomplicated with low conversion and BDI risk."
+  },
+  "18206150": {
+    "Task1_Anatomy": "The hepatocystic triangle appears well exposed with the cystic duct and a separate cystic artery clearly identified; tissues show only mild hyperemia without significant inflammation or adhesions. There is a clean posterior window behind the cystic duct and no bile leak or active bleeding. Overall, the field is dry with minimal ooze and no other abnormalities visible in this frame.",
+    "Task2_Final": "This is the cystic duct control step with the clip applier aligned after adequate skeletonization and exposure of the hepatocystic triangle. Two structures (duct and artery) are clearly identified; a short, deliberate confirmation of lower gallbladder detachment would further secure the CVS before firing clips, with overall low BDI risk. The operation is progressing safely toward clipping and division of the cystic duct.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed by optimizing traction, completing the CVS (including confirming the lower third of the gallbladder is off the liver), then apply two proximal and one distal clips to the cystic duct, divide, and similarly clip/divide the cystic artery before completing a close-to-wall gallbladder detachment and final hemostasis check. With this approach, the case should complete laparoscopically with minimal blood loss and low risk of bile duct injury or bile leak."
+  },
+  "186022750": {
+    "Task1_Anatomy": "Calot’s triangle is only partially cleared with mild oozing and no bile leak, and the cystic duct is not yet skeletonized or clipped. The lower gallbladder remains attached to the cystic plate. No dense adhesions are apparent in this frame.",
+    "Task2_Final": "The case is in the Calot’s triangle exposure phase with peritoneum opened but incomplete clearance and no CVS yet. Mild oozing is present; further careful dissection is required before any clipping to minimize bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed by improving exposure and completing anterior/posterior peritoneal dissection close to the gallbladder to skeletonize two structures and detach the lower third of the gallbladder, achieving CVS before clipping. With controlled energy use and hemostasis, a straightforward laparoscopic completion is likely with low complication risk."
+  },
+  "19108075": {
+    "Task1_Anatomy": "The gallbladder neck region shows mild inflammatory changes with minimal oozing; the hepatocystic triangle is partially cleared without dense adhesions or bile spillage. Distinct cystic duct and artery are not confidently visualized in this single frame, and the lower gallbladder appears not fully separated from the liver bed.",
+    "Task2_Final": "This frame represents early-to-mid Calot’s triangle dissection with partial clearance and acceptable exposure but without definitive identification of two tubular structures or full detachment of the lower gallbladder. Progress is appropriate and controlled, yet the current state does not meet CVS; further meticulous skeletonization is required before clipping.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed by completing anterior and posterior peritoneal releases on the gallbladder side, bluntly skeletonizing until two distinct tubular structures are clearly seen, and ensure the lower gallbladder is off the liver bed before clipping and dividing. Maintain dissection on the cystic plate with controlled energy to avoid medial injury; if uncertainty persists, use cholangiography. Anticipated outcome is an uncomplicated laparoscopic completion with minimal blood loss and no bile duct injury."
+  },
+  "166014450": {
+    "Task1_Anatomy": "Calot’s area is only partially dissected: a presumed cystic duct lies under the clipper but is not circumferentially skeletonized, and the cystic artery is not confidently seen. The gallbladder and liver appear largely normal with minimal oozing and no adhesions or bile leak.",
+    "Task2_Final": "The frame depicts pre-clipping positioning during Calot’s dissection with good traction but incomplete identification—CVS is not yet met. Clipping should be deferred until the cystic duct and artery are fully skeletonized and the lower gallbladder is off the cystic plate to minimize bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Continue careful blunt/cold dissection on the gallbladder wall to fully skeletonize the cystic duct and artery and free the lower gallbladder until CVS is achieved before clipping. Maintain optimal traction vectors and avoid thermal injury near the hepatocystic triangle; if CVS cannot be met, proceed to a bail-out strategy. Expected outcome is an uncomplicated laparoscopic completion without bile duct injury or significant bleeding."
+  },
+  "189027300": {
+    "Task1_Anatomy": "The gallbladder is partially visualized with a left-hand grasper retracting it; visualization is obscured by near-field soft tissue with a small blood smear. No definite signs of severe inflammation, adhesions, or bile leak are seen, though assessment is limited by the obstructed view.",
+    "Task2_Final": "This frame represents an exposure/traction moment with obstructed visualization; the hepatocystic triangle is not exposed and CVS cannot be assessed. Safe progression requires clearing the view and re-establishing proper traction-countertraction before dissection.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Prioritize clearing the lens/field and reestablishing proper cephalad fundus and lateral infundibular traction, then perform careful peritoneal dissection on the gallbladder side to obtain the CVS before clipping. With improved exposure and adherence to CVS, the procedure should complete laparoscopically with low risk of bile duct injury and minimal blood loss."
+  },
+  "16904175": {
+    "Task1_Anatomy": "The gallbladder neck and Calot’s triangle show mild inflammation with residual fibrofatty adhesions and minor venous oozing. The cystic duct and cystic artery are partially identified but not fully skeletonized, and the lower gallbladder is not clearly separated from the liver bed. No bile leak or obvious abnormality of the liver surface is seen in this frame.",
+    "Task2_Final": "This is the Calot’s triangle dissection stage with partial exposure of the cystic duct and artery and minor oozing. CVS has not yet been met; careful continued dissection and hemostasis are needed to reduce misidentification risk. Overall risk is acceptable but not negligible.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous anterior and posterior clearance of Calot’s triangle under lateral/cephalad traction, control oozing, and keep dissection on the GB side until two structures are clearly identified and the lower GB is separated, then clip-divide. If CVS cannot be secured, employ a safe bailout. Expected outcome is an uncomplicated laparoscopic completion with low morbidity."
+  },
+  "165024400": {
+    "Task1_Anatomy": "Calot’s triangle is partially cleared with the cystic duct and a likely cystic artery visible; there is minimal oozing but no bile leak. The gallbladder shows no clear inflammatory changes or abnormal adhesions, and the lower third does not appear clearly detached from the liver bed in this frame.",
+    "Task2_Final": "This is the pre-clipping stage on the cystic duct with partial CVS; additional dissection is needed to fully skeletonize the triangle and detach the lower gallbladder from the liver bed. Achieving full CVS prior to clip/division will improve safety and lower the risk of misidentification.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Pause clip application, complete anterior/posterior windows and detach the lower third of the gallbladder to achieve full CVS, then clip/divide the artery and duct safely before finishing the cholecystectomy. With these steps and careful traction/clip orientation, a straightforward laparoscopic completion with low complication risk is anticipated."
+  },
+  "170074300": {
+    "Task1_Anatomy": "The hepatocystic triangle is partially cleared with a clipper poised on a likely cystic duct while the gallbladder infundibulum is retracted laterally. No clear signs of acute inflammation or dense adhesions; only minor oozing/char from dissection. The lower gallbladder does not appear clearly separated from the liver bed in this view.",
+    "Task2_Final": "This frame shows the clipping stage approaching during Calot’s triangle dissection with partial exposure but an incomplete CVS. Short-term safety would improve by completing clearance and creating a posterior window before any clipping or transection.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Complete the hepatocystic triangle clearance, create a posterior window, and free the lower third of the gallbladder before placing any clips to satisfy CVS and minimize BDI risk. Then clip/divide the cystic structures in a controlled manner and complete gallbladder bed dissection with hemostasis; prognosis for an uncomplicated laparoscopic completion appears favorable."
+  },
+  "183025250": {
+    "Task1_Anatomy": "The gallbladder and cystic pedicle are partially skeletonized with the cystic duct and cystic artery identifiable; inflammation appears mild with no dense adhesions. There is minor oozing in Calot’s triangle but no bile leak or perforation. Overall, exposure is good with residual areolar tissue still present.",
+    "Task2_Final": "This frame captures Calot’s dissection with identifiable cystic duct and artery and partial triangle clearance, approaching but not yet fulfilling full CVS. Minor oozing is present but does not preclude safe progression; ensure posterior window and lower-third detachment before clipping/division.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed to complete anterior and posterior clearance of Calot’s triangle, control oozing, and detach the lower third of the gallbladder from the liver bed to achieve full CVS before clipping/division. Maintain dissection close to the gallbladder and optimize traction to avoid CBD or right hepatic arterial injury; expected outcome is an uncomplicated cholecystectomy with low risk of major complications."
+  },
+  "199027000": {
+    "Task1_Anatomy": "There is mild inflammatory change with vascular congestion and residual fibrofatty tissue in Calot’s triangle and along the cystic plate, with minimal oozing but no bile spillage. The cystic duct is partially exposed and a vessel consistent with the cystic artery is suggested but not fully skeletonized; the lower gallbladder is only partly off the liver bed.",
+    "Task2_Final": "This frame shows active dissection of the hepatocystic triangle and cystic plate before clipping, with partial exposure of the cystic duct and a likely cystic artery but no complete CVS. Continued careful skeletonization and creation of a posterior window are needed to reduce the risk of bile duct injury.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with careful gallbladder-side dissection to fully skeletonize the cystic duct and artery, create a posterior window, and detach the lower third of the gallbladder from the liver bed to achieve CVS before clipping and division. Avoid thermal spread to ductal structures and consider bailout strategies if clarity is not obtained. If these steps are followed, a routine laparoscopic completion with low complication risk is expected."
+  },
+  "179016550": {
+    "Task1_Anatomy": "The hepatocystic triangle is largely cleared with identifiable cystic artery and cystic duct; the gallbladder shows mild serosal hyperemia without dense adhesions. There is minimal oozing but no bile leak or major bleeding. No other abnormalities are evident in this frame.",
+    "Task2_Final": "This frame shows the clip applier poised to secure the cystic artery with the hepatocystic triangle largely cleared and the cystic duct separately identified. Because the lower gallbladder detachment is not confirmed, safety improves by completing that step before division to minimize misidentification risk. BDI_RISK_LEVEL=3",
+    "Task2_BDI": 3,
+    "Task3_Final": "Complete residual triangle skeletonization, ensure posterior windows, and detach the lower gallbladder from the liver bed before clipping; then clip/divide the cystic artery followed by the cystic duct with meticulous verification of structures. With these steps, a laparoscopic completion without complications is expected."
+  },
+  "173024350": {
+    "Task1_Anatomy": "The cystic duct is clearly exposed and the clip applier is positioned on it while the gallbladder neck is retracted laterally. Calot’s triangle appears mostly cleared with minimal char and no active bleeding, and part of the lower gallbladder appears separated from the liver bed. No signs of acute inflammation or abnormal adhesions are seen.",
+    "Task2_Final": "This frame represents pre-clipping of the cystic duct with good lateral traction and a well-exposed hepatocystic triangle; lower gallbladder separation is partial. The remaining safety step is unequivocal confirmation of two structures entering the gallbladder, particularly a posterior window and separate identification of the cystic artery, before clip application.",
+    "Task2_BDI": 2,
+    "Task3_Final": "Proceed by optimizing traction, completing circumferential skeletonization to create a clear posterior window, and confirming that only two structures enter the gallbladder before placing clips close to the gallbladder and dividing the cystic duct. Then securely clip/divide the cystic artery and finish the gallbladder off the liver bed with hemostasis and irrigation. An uneventful laparoscopic completion is expected with low complication risk."
+  },
+  "177042825": {
+    "Task1_Anatomy": "The triangle is partly skeletonized with mild oozing and hyperemia but without bile spillage or dense adhesions. The cystic duct is visible yet not fully delineated, and the lower third of the gallbladder does not appear detached from the liver bed.",
+    "Task2_Final": "This frame shows Calot’s triangle dissection in progress with the cystic duct partly skeletonized and continued tissue clearing needed. Safety depends on maintaining dissection on the gallbladder, minimizing thermal spread, and achieving CVS before clipping/division. \nBDI_RISK_LEVEL=3",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with careful, mostly blunt dissection to fully clear the hepatocystic triangle, identify the cystic artery, and free the lower gallbladder from the liver bed to achieve CVS before clipping/division. Maintain traction/counter-traction, limit thermal spread near the duct, and consider bailout strategies if anatomy remains unclear; an uncomplicated laparoscopic completion is likely if CVS is obtained."
+  },
+  "187011975": {
+    "Task1_Anatomy": "- The infundibulum is mildly inflamed with limited oozing. The cystic duct is identified and partially skeletonized with a clip applier positioned, but the hepatocystic triangle retains some fatty/areolar tissue. No bile leak or other structural abnormality is evident in this frame.",
+    "Task2_Final": "- The case is at the pre-clipping stage for the cystic duct with partial but insufficient exposure. Additional dissection to achieve CVS is advisable before clip application to minimize bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "- Pause clipping and complete anterior/posterior clearance to identify the cystic artery separately and detach the lower gallbladder from the liver bed, then clip/divide in a controlled sequence. If CVS cannot be met, employ a bailout strategy; with proper steps, a safe, uncomplicated completion is likely."
+  },
+  "176012425": {
+    "Task1_Anatomy": "The hepatocystic triangle is partially cleared with identifiable cystic duct and cystic artery; mild inflammation and small oozing are present. The cystic plate is being exposed with partial detachment of the lower gallbladder from the liver bed. No obvious injury, major bleeding, or bile leak is seen.",
+    "Task2_Final": "This frame shows ongoing Calot’s triangle dissection with partial skeletonization of the cystic duct and artery and early development of the cystic plate. Safety is acceptable but definitive clipping should wait until full CVS is obtained; continued careful GB-side dissection and hemostasis are needed.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with anterior and posterior peritoneal incisions and blunt dissection to skeletonize the cystic duct and artery, extend cystic plate release to detach the lower third of the gallbladder, and confirm full CVS before clipping/division. Maintain dissection strictly on the gallbladder side with minimal thermal spread; consider IOC or bailout strategies if anatomy remains unclear. Expected outcome is successful laparoscopic completion without complications."
+  },
+  "170054800": {
+    "Task1_Anatomy": "The gallbladder neck is mildly inflamed; Calot’s triangle is only partially cleared with a small bleeding point controlled by bipolar. No dense adhesions, no bile spillage, and no liver injury are seen; cystic duct and artery are not yet clearly defined.",
+    "Task2_Final": "This frame shows ongoing Calot’s triangle dissection with partial exposure and bipolar hemostasis; the cystic duct and artery are not yet clearly defined and the lower gallbladder is still attached to the liver bed. Patient safety requires further blunt/cold dissection and improved exposure before any clipping/division to achieve CVS.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Continue with blunt/cold dissection on the gallbladder side, using bipolar only for pinpoint hemostasis, to fully clear the hepatocystic triangle and detach the lower gallbladder until the CVS is unequivocally obtained before clipping/dividing. If anatomy remains unclear, pursue bail-out strategies rather than proceeding without CVS; with this approach, an uncomplicated laparoscopic completion is expected."
+  },
+  "17806325": {
+    "Task1_Anatomy": "The hepatocystic triangle is being developed with the gallbladder neck retracted laterally and a hook dissecting soft areolar tissue; the cystic duct is only partially skeletonized. Tissue looks mildly inflamed with minimal oozing and no bile leak; no dense adhesions or other abnormalities are evident.",
+    "Task2_Final": "The case is in the Calot dissection phase with partial exposure of the cystic duct and ongoing clearance of the hepatocystic triangle. Anatomy appears favorable, but CVS is not met; careful GB-side dissection is needed before clipping to minimize BDI risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with controlled GB-side hook dissection to fully clear the hepatocystic triangle, create a posterior window, identify the cystic artery, and detach the lower third of the GB to achieve CVS before clipping. Maintain meticulous hemostasis and avoid medial/caudal sweeps; if anatomy remains unclear, employ adjuncts or bailout strategies. Expected outcome is uneventful laparoscopic completion with low complication risk once CVS is obtained."
+  },
+  "16402700": {
+    "Task1_Anatomy": "The hepatocystic triangle is partially cleared with two likely tubular structures exposed amid cautery eschar and minor oozing; the gallbladder serosa appears intact without bile spillage or dense adhesions. No major anatomic abnormality is evident, but exposure is incomplete and hemostasis is not perfect.",
+    "Task2_Final": "This frame represents the Calot’s triangle dissection phase aiming for the Critical View of Safety, with partial exposure of the cystic duct and artery and minor oozing. Safety requires further clearing and confirmation of only two structures with detachment of the lower gallbladder before clipping/division.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed by optimizing traction, clearing the hepatocystic triangle close to the gallbladder, circumferentially skeletonizing the cystic duct and artery, and detaching the lower gallbladder to achieve CVS before clipping/division. If these steps are followed with hemostasis and minimal thermal spread, completion laparoscopically with low complication risk is expected."
+  },
+  "174024200": {
+    "Task1_Anatomy": "There is moderate inflammatory change with fibrofatty adhesions in Calot’s triangle, minor oozing, and cautery charring. The cystic duct and a small cystic artery are largely skeletonized; a possible stone bulge is seen in the duct. The lower gallbladder-cystic plate interface is only partially separated in this view.",
+    "Task2_Final": "The operation is in the Calot’s dissection phase with the cystic duct and artery largely skeletonized and the triangle opened. Completion of cystic plate separation is needed to finalize CVS before clipping/division; current visualization is adequate but inflammation and minor oozing warrant cautious, gallbladder-side dissection.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed to complete peritoneal clearance and cystic plate separation to fully achieve CVS, using precise, low-power diathermy and strict gallbladder-side dissection while controlling oozing. After confirming CVS, clip/divide the artery then the duct and complete the cholecystectomy, with bailout options considered only if CVS cannot be secured; prognosis for laparoscopic completion is favorable."
+  },
+  "174022700": {
+    "Task1_Anatomy": "The infundibulum/Calot’s area shows acute-on-chronic inflammatory changes with fibrotic adhesions and minimal oozing; the cystic duct is not clearly seen as a discrete tube, and exposed gallstones are visible through an apparent opening at the infundibulum/duct region; the liver surface appears unremarkable.",
+    "Task2_Final": "This frame represents ongoing Calot’s triangle dissection in an inflamed, fibrotic neck with stones exposed via an opening at the infundibulum/cystic duct, before achieving CVS. Anatomy is not yet safely defined; further controlled dissection on the gallbladder side or a bail-out strategy will be required to mitigate bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with gallbladder-side dissection to fully clear the triangle, manage the exposed stones, and obtain CVS before clipping; if CVS cannot be achieved safely, convert to fundus-first or subtotal cholecystectomy and consider cholangiography. A laparoscopic completion is likely, though a subtotal and selective drainage may be required in view of inflammation and the infundibular opening."
+  },
+  "170057800": {
+    "Task1_Anatomy": "The gallbladder neck region shows mild inflammatory change with limited oozing during peritoneal dissection. The cystic plate is being exposed with expected areolar tissue; no bile leak or dense adhesions are evident. A distinct cystic duct is not yet clearly visualized in this frame.",
+    "Task2_Final": "This frame shows early-to-mid Calot’s triangle dissection with traction on the gallbladder and hook cautery opening peritoneum over the cystic plate. Exposure is partial, with mild inflammation and minor oozing but no bile leak; further clearance is required before any clipping. Overall progression is acceptable, but careful identification is needed to minimize bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous, gallbladder-side dissection on both medial and lateral peritoneal folds, develop windows, partially lift the lower gallbladder off the cystic plate, and confirm the CVS before any clipping or division; control oozing and minimize thermal spread. If identification remains uncertain, use bail-out strategies (IOC, fundus-first, or subtotal). Expected outcome is straightforward laparoscopic completion without major complications."
+  },
+  "167017950": {
+    "Task1_Anatomy": "The gallbladder neck region is inflamed with edematous tissue and mild oozing within a partially cleared hepatocystic triangle. No confident visualization of two distinct, fully skeletonized tubular structures is present, and the lower gallbladder remains attached to the liver bed.",
+    "Task2_Final": "This is the Calot’s triangle dissection phase with partial exposure and inflammatory oozing that currently obscures the cystic duct and artery; CVS is not yet achieved. Proceeding to divide any structure now would be unsafe; controlled hemostasis and further window creation are needed before clipping.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Improve cephalad fundus and lateral infundibular traction, control oozing, and create clear anterior and posterior windows to skeletonize two separate tubular structures, then detach the lower gallbladder before clipping and dividing. If safe planes are not achieved, convert to a bail-out strategy (fundus-first subtotal). Expected outcome is uneventful laparoscopic completion with low blood loss and low bile duct injury risk."
+  },
+  "171017550": {
+    "Task1_Anatomy": "The hepatocystic triangle shows mild fibroareolar tissue with partial skeletonization of the cystic duct and artery; the field is dry without bile leak or active bleeding. The gallbladder serosa is intact with no perforation seen. No other abnormalities are evident.",
+    "Task2_Final": "This frame shows the pre-clipping phase for the cystic artery with partial CVS. To optimize safety, complete clearing of the hepatocystic triangle and confirm lower gallbladder detachment before definitive clipping/division. If CVS is completed, progression should be safe with low complication risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Complete the CVS by fully clearing the hepatocystic triangle and detaching the lower gallbladder before applying clips, keeping dissection close to the gallbladder and away from the common duct. After confirming two isolated structures and creating posterior windows, clip/divide artery then duct, finish retrograde removal, and verify hemostasis and no bile leak. Outcome is likely uneventful if these steps are followed."
+  },
+  "195034400": {
+    "Task1_Anatomy": "The gallbladder neck and Calot’s triangle show mild inflammatory changes with filmy adhesions and minor oozing; the cystic duct is partly skeletonized without bile leakage, and the cystic plate is only partially exposed while the liver surface remains intact.",
+    "Task2_Final": "This frame represents early-to-mid Calot’s triangle dissection with partial exposure: the cystic duct is visible, but the cystic artery is not yet clearly separated, and the lower gallbladder is not fully off the liver bed. Progress is adequate, but CVS is not achieved; careful continued dissection is required to mitigate bile duct injury risk.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Proceed with meticulous, near-gallbladder dissection to fully clear Calot’s triangle, distinctly identify the cystic artery in addition to the cystic duct, and detach the lower third of the gallbladder from the cystic plate before clipping and dividing. Maintain excellent traction, control oozing, and use bail-out strategies or IOC if the two-tubular-structure rule cannot be met; a straightforward laparoscopic completion is likely with low complication risk if CVS is achieved."
+  },
+  "184038875": {
+    "Task1_Anatomy": "The field shows an inflamed Calot’s triangle with partial skeletonization: the cystic artery appears already clipped and the clip applier is on the cystic duct. There is diffuse oozing without bile leakage. Overall exposure is acceptable but not fully clean.",
+    "Task2_Final": "This frame represents pre-clipping of the cystic duct after arterial control in a moderately inflamed Calot’s triangle. CVS is not fully demonstrated, so proceeding to division now would carry a nontrivial risk; further skeletonization and confirmation are advised.",
+    "Task2_BDI": 3,
+    "Task3_Final": "Clear the oozing field, optimize traction, and complete anterior/posterior windows to fully establish the CVS before clipping/dividing the duct. If CVS remains unattainable, proceed with a bailout (subtotal or fundus-first) or IOC; otherwise, expect an uncomplicated laparoscopic completion with low risk of bile leak or BDI."
+  }
+}

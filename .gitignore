@@ -1,0 +1,24 @@
+# --- Secrets (NEVER commit) ---
+.env
+*.key
+*_key*
+secrets*
+**/api_keys*
+
+# --- Endoscapes-SG201 assets we do NOT own (reference, do not re-host) ---
+# Images
+*.jpg
+*.jpeg
+*.png
+# Endoscapes ground-truth annotations (owned by the Endoscapes-SG201 dataset)
+coco_annotations.json
+gt_structures_per_image.json
+gt_refined_with_cvs.json
+scene_graphs_serialized.json
+peripheral_anatomy_presence.csv
+
+# --- OS / editor cruft ---
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
