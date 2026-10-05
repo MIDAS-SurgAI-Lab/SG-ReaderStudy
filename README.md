@@ -24,10 +24,11 @@ scripts/
   analysis/                         # reader-study stats, mixed models, propagation, text metrics, figures
 ```
 
-> **Not included** (owned by Endoscapes-SG201): the frames, and the ground-truth annotations
-> (COCO, GT scene graphs, CVS labels). The model's own structured outputs (anatomy / action-triplet /
-> CVS fields) were produced alongside those GT annotations in a merged file; to release them, strip the
-> ground-truth fields first. Reference Endoscapes-SG201 for all of the above.
+> **Not included** (not ours to redistribute): the frames (from **Endoscapes**) and the ground-truth
+> annotations (COCO, GT scene graphs, CVS labels; from **Endoscapes / Endoscapes-SG201**). The model's
+> own structured outputs (anatomy / action-triplet / CVS fields) were produced alongside those GT
+> annotations in a merged file; to release them, strip the ground-truth fields first. Obtain the frames
+> and annotations from the official Endoscapes source.
 
 ## Reproducing
 
